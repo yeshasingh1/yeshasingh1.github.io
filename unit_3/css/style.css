@@ -1,0 +1,38 @@
+body {
+	background-color: #f5f5f5;
+	text-align: center;
+}
+
+
+h1 {
+  
+  color: #000000;
+  font-family: Century Gothic, sans-serif;
+  font-size: 40px
+}
+
+
+#slogan {
+
+    color: #000000;
+    font-family: Century Gothic, sans-serif;
+    font-style: italic;
+    font-size: 20px
+
+}
+
+
+hr
+{
+    border: 2px solid #000000;
+}
+
+
+.aboutme {
+
+    color: #000000;
+    font-family: Century Gothic, sans-serif;
+    font-style: normal;
+    font-size: 15px
+
+}
