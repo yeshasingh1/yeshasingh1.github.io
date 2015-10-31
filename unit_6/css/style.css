@@ -48,10 +48,21 @@ nav a:hover {
 }
 
 
+
+
 .hero-content {
-  padding: 300px;
+  padding: 200px;
   text-align: center;
   color: white;
+}
+
+.hero-content li {
+  list-style: none;
+  padding: 1rem;
+  margin: 1rem;
+  display: inline-block;
+  text-transform: uppercase;
+  border-bottom: 1px solid white;
 }
 
 
